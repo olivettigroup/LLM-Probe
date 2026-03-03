@@ -4,7 +4,7 @@ Code and data for the paper: **"Probing Materials Intelligence in LLMs: From Lat
 
 Vineeth Venugopal, Soroush Mahjoubi, Elsa Olivetti
 *Massachusetts Institute of Technology*
-
+> **Paper:** [arXiv:2603.01834](http://arxiv.org/abs/2603.01834) | Under Review
 ---
 
 ## Overview
