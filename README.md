@@ -100,7 +100,7 @@ with torch.no_grad():
 @article{venugopal2026probing,
   title={Probing Materials Intelligence in LLMs: From Latent Embeddings to Reliable Predictions},
   author={Venugopal, Vineeth and Mahjoubi, Soroush and Olivetti, Elsa},
-  journal={},
+  journal={arXiv preprint arXiv:2603.01834},
   year={2026}
 }
 ```
