@@ -1,6 +1,6 @@
-# LLM-Probe: Probing Materials Intelligence in Large Language Models
+# LLM-Probe: Materials Knowledge in Large Language Models
 
-Code and data for the paper: **"Probing Materials Intelligence in LLMs: From Latent Embeddings to Reliable Predictions"**
+Code for the paper: **"Materials Knowledge in Large Language Models: Learning, Expression, and Reliability"**
 
 Vineeth Venugopal, Soroush Mahjoubi, Elsa Olivetti
 *Massachusetts Institute of Technology*
@@ -97,8 +97,8 @@ with torch.no_grad():
 ## Citation
 
 ```bibtex
-@article{venugopal2026probing,
-  title={Probing Materials Intelligence in LLMs: From Latent Embeddings to Reliable Predictions},
+@article{venugopal2026materials,
+  title={Materials Knowledge in Large Language Models: Learning, Expression, and Reliability},
   author={Venugopal, Vineeth and Mahjoubi, Soroush and Olivetti, Elsa},
   journal={arXiv preprint arXiv:2603.01834},
   year={2026}
