@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Materials Knowledge in Large Language Models: Learning, Expression, and Reliability"
+abstract: >-
+  Evaluation and fine-tuning code for a study of how large language models
+  represent and express materials knowledge across bandgap prediction,
+  dielectric constant prediction, crystal system classification and
+  knowledge-graph completion.
+type: software
+license: MIT
+version: 1.0.0
+date-released: "2026-08-28"
+repository-code: "https://github.com/olivettigroup/LLM-Probe"
+authors:
+  - family-names: Venugopal
+    given-names: Vineeth
+    affiliation: "Massachusetts Institute of Technology"
+  - family-names: Mahjoubi
+    given-names: Soroush
+    affiliation: "Massachusetts Institute of Technology"
+  - family-names: Olivetti
+    given-names: Elsa
+    affiliation: "Massachusetts Institute of Technology"
+keywords:
+  - large language models
+  - materials science
+  - fine-tuning
+  - knowledge graphs
