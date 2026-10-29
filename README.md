@@ -4,7 +4,7 @@ Code for the paper: **"Materials Knowledge in Large Language Models: Learning, E
 
 Vineeth Venugopal, Soroush Mahjoubi, Elsa Olivetti
 *Massachusetts Institute of Technology*
-> **Paper:** [arXiv:2603.01834](http://arxiv.org/abs/2603.01834) | Under Review
+> **Paper:** under submission
 ---
 
 ## Overview
@@ -23,7 +23,7 @@ Available on Hugging Face:
 | Dataset | Task | Link |
 |---------|------|------|
 | Bandgap | Regression | [vinven7/materials-bandgap-prediction](https://huggingface.co/datasets/vinven7/materials-bandgap-prediction) |
-| Dielectric | Regression | [vinven7/materials-dielectric-prediction](https://huggingface.co/datasets/vinven7/materials-dielectric-prediction) |
+| Dielectric | Regression | [vinven7/materials-dielectric-prediction](https://huggingface.co/datasets/vinven7/materials-dielectric-prediction) (test split revised 2026-10-29: 775 formula-disjoint compounds) |
 | Crystal System | Classification | [vinven7/materials-crystal-system-classification](https://huggingface.co/datasets/vinven7/materials-crystal-system-classification) |
 | MatKG | Link Prediction | [vinven7/matkg-link-prediction](https://huggingface.co/datasets/vinven7/matkg-link-prediction) |
 
@@ -100,7 +100,7 @@ with torch.no_grad():
 @article{venugopal2026materials,
   title={Materials Knowledge in Large Language Models: Learning, Expression, and Reliability},
   author={Venugopal, Vineeth and Mahjoubi, Soroush and Olivetti, Elsa},
-  journal={arXiv preprint arXiv:2603.01834},
+  note={Under submission},
   year={2026}
 }
 ```
